@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github_repo\\RBT\\RBT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04AAFB3-9C67-407F-B6A9-AFA23267CCA5}|RBT.vcxproj|D:\\github_repo\\RBT\\RBT\\RBT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C04AAFB3-9C67-407F-B6A9-AFA23267CCA5}|RBT.vcxproj|solutionrelative:RBT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RBT.cpp",
+              "DocumentMoniker": "D:\\github_repo\\RBT\\RBT\\RBT.cpp",
+              "RelativeDocumentMoniker": "RBT.cpp",
+              "ToolTip": "D:\\github_repo\\RBT\\RBT\\RBT.cpp",
+              "RelativeToolTip": "RBT.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T12:14:37.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
